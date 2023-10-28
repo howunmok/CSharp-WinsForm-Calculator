@@ -1,0 +1,58 @@
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.exe
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.deps.json
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.runtimeconfig.json
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.dll
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.pdb
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.csproj.AssemblyReference.cache
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.Form1.resources
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.csproj.GenerateResource.cache
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.AssemblyInfoInputs.cache
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.AssemblyInfo.cs
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.csproj.CoreCompileInputs.cache
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.dll
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\refint\assignment05.dll
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.pdb
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.genruntimeconfig.cache
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\ref\assignment05.dll
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.Properties.Resources.resources
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.aboutMe.resources
+C:\Users\MOK\Desktop\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.courseAssign.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.exe
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.deps.json
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.runtimeconfig.json
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\bin\Debug\net6.0-windows\assignment05.pdb
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.aboutMe.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.courseAssign.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.Form1.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.Properties.Resources.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.csproj.GenerateResource.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.AssemblyInfoInputs.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.AssemblyInfo.cs
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.csproj.CoreCompileInputs.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\refint\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.pdb
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\assignment05.genruntimeconfig.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\assignment05\obj\Debug\net6.0-windows\ref\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\bin\Debug\net6.0-windows\assignment05.exe
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\bin\Debug\net6.0-windows\assignment05.deps.json
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\bin\Debug\net6.0-windows\assignment05.runtimeconfig.json
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\bin\Debug\net6.0-windows\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\bin\Debug\net6.0-windows\assignment05.pdb
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.aboutMe.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.courseAssign.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.Form1.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.Properties.Resources.resources
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.csproj.GenerateResource.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.AssemblyInfoInputs.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.AssemblyInfo.cs
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.csproj.CoreCompileInputs.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\refint\assignment05.dll
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.pdb
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\assignment05.genruntimeconfig.cache
+C:\Users\benny\Desktop\C# Programming\COMP123 Programming 2\C#WinsForm_Calulator\obj\Debug\net6.0-windows\ref\assignment05.dll
